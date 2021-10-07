@@ -32,7 +32,7 @@ const MainContainer = () => {
         </Route>
 
         <Route path={paths.starships.href}>
-            <Starship />
+          <Starship />
         </Route>
 
         <Route path={paths.people.href}>
